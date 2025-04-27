@@ -1,5 +1,4 @@
 
-    </style>
 </head>
 <body>
     <h1>Cutout-processing说明</h1>
