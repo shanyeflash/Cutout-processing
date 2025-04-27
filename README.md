@@ -1,28 +1,5 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cutout-processing扩展说明</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        h2 {
-            margin-top: 20px;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-        p {
-            text-align: justify;
-        }
-    </style>
+
+
 </head>
 <body>
     <h1>Cutout-processing扩展说明</h1>
